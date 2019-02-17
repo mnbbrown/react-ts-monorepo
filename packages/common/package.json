@@ -1,0 +1,7 @@
+{
+  "name": "@react-ts-monorepo/common",
+  "version": "0.0.1",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"]
+}

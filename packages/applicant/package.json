@@ -1,0 +1,9 @@
+{
+  "name": "@react-ts-monorepo/applicant",
+  "version": "0.0.0",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@react-ts-monorepo/common": "^0.0.1"
+  }
+}

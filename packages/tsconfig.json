@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@react-ts-monorepo/common": ["./common/src"],
+      "@react-ts-monorepo/common/*": ["./common/src/*"],
+    }
+  }
+}
